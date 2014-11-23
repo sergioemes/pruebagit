@@ -1,3 +1,3 @@
 ESTO ES UNA PRUEBA EN README.MD
 
-2º COmmit
+Me voy de GIT
